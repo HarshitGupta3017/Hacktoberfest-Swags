@@ -2,7 +2,7 @@
 
 Hacktoberfest 2022 is ongoing and you must have started the contribution. Everyone loves swags in the developer community. Let me tell you some good opportunities to grab cool swags by adding value to awesome projects during October'22. **Contribute quality, and Get rewarded!**
 
-### 1. [Hacktoberfest](https://hacktoberfest.com/)
+### 1. <a href="https://hacktoberfest.com/" target="_blank">Hacktoberfest</a>
 Contribute to any hacktoberfest tagged repository on GitHub or GitLab during October to win official Hacktoberfest swags.
 
 - 4 merged PRs will be eligible for swags
